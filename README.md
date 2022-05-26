@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Shift2Rail2**
 
-- 🌱 I’m currently learning **Databricks, Azure**
+- 🌱 I’m currently learning **Databricks, Azure, Grafana**
 
 - 💬 Ask me about **Data science, analytics, mathematical programming, operations research, R**
 
