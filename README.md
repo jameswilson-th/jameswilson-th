@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **james.wilson@uk.thalesgroup.com**
 
-- 📄 Know about my experiences [I have been working in data analytics over the past decade, primarily in the NHS. I'm skilled in SQL, R, Python, Qlik, Data Visualisation](I have been working in data analytics over the past decade, primarily in the NHS. I'm skilled in SQL, R, Python, Qlik, Data Visualisation)
+- 📄 Know about my experiences **I have been working in data analytics over the past decade, primarily in the NHS. I'm skilled in SQL, R, Python, Qlik, Data Visualisation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
