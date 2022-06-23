@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm James Wilson</h1>
 <h3 align="center">Data Scientist working in the DCC Team</h3>
 
-- 🔭 I’m currently working on **Shift2Rail2** looking at the **Precipitation Compensation Algorithm**
+- 🔭 I’m currently working on: **Shift2Rail2** looking at the **Precipitation Compensation Algorithm**
 
-- 🌱 I’m currently learning **Databricks, Azure, Grafana**
+- 🌱 I’m currently learning: **Databricks, Azure, Grafana**
 
-- 💬 Ask me about **data science, analytics, mathematical programming, operations research, R**
+- 💬 Ask me about: **data science, analytics, mathematical programming, operations research, R**
 
-- 📫 How to reach me **james.wilson@uk.thalesgroup.com**
+- 📫 How to reach me: **james.wilson@uk.thalesgroup.com**
 
-- 📄 Know about my experiences **I have been working in data analytics over the past decade, primarily in the NHS. I'm skilled in SQL, R, Python, Qlik, Data Visualisation**
+- 📄 Know about my experiences: **I have been working in data analytics over the past decade, primarily in the NHS. I'm skilled in SQL, R, Python, Qlik, Data Visualisation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
